@@ -134,3 +134,25 @@ footer h4{
 footer p{
     text-align: center;
 }
+@media(min-width: 427px){
+
+}
+@media(min-width:769px){
+    
+    .card{
+        display: flex;
+    }
+    .card img{
+        width: 30%;
+    }
+    div h3 p{
+        padding: 2px 20px;
+    }
+    footer .noticias{
+        display: flex;
+        justify-content: space-around;
+    }
+}
+@media(min-width:1201px){
+
+}
